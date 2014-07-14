@@ -1,4 +1,4 @@
-RepoDemo
+test-repo
 ========
 
-This repo is just for initial training
+This is a test repo, just for initial training
